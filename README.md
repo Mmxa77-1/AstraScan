@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bbd4cc2b-26f0-4cc4-9271-2f719e488dd4" width="1000" />
+</p>
 #⭐ AstraScan – AI‑Powered Web Security Analyzer
 
 AstraScan is a safe‑by‑default web analysis tool that uses
