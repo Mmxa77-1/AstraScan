@@ -86,6 +86,10 @@ Active test resultsOutputs:
 
 -  Active test results
 
+-  Saves results to /reports/ai_results.json
+
+---
+
 #🚀 Installation
 
 git clone https://github.com/yourname/AstraScan
@@ -94,8 +98,12 @@ python3 -m venv venv ,
 source venv/bin/activate , 
 pip install -r requirements.txt
 
-
 ---
+
+⚙️ Usage 
+
+-  Basic scan: python3 ai_scan.py -u https://example.com
+
 
 ## 🎥 Demo Img
 
