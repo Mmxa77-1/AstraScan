@@ -1,4 +1,4 @@
-![Teal and Black Modern Cyber Security Video](https://github.com/user-attachments/assets/a3838b4d-8d33-4be4-9bf4-fad08fa51a15)# AstraScan – AI‑Powered Web Security Analyzer
+#⭐ AstraScan – AI‑Powered Web Security Analyzer
 
 AstraScan is a safe‑by‑default web analysis tool that uses
 machine‑learning heuristics to identify potentially interesting or risky endpoints
