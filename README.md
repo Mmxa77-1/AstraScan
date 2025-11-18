@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ## 🎥 Demo Img
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb3e03fa-61ce-4694-8c0d-c6d1c1bb7312" width="700" />
+  <img src="https://github.com/user-attachments/assets/bb3e03fa-61ce-4694-8c0d-c6d1c1bb7312" width="1000" />
 </p>
 
 ---
