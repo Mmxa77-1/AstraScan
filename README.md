@@ -22,40 +22,69 @@ It is built to be safe for learning and research.
 
 -  Parses links, forms, parameters
 
-Handles HTTPS, timeouts, redirects
+-  Handles HTTPS, timeouts, redirects
 
-Can run through Tor (optional)
+-  Can run through Tor (optional)
 
-Randomized headers for cleaner, more realistic crawling
+-  Randomized headers for cleaner, more realistic crawling
+
+  ---
 
 🧠 2. AI-Assisted Risk Scoring
 
-Generates feature vectors from URLs + HTML
+-  Generates feature vectors from URLs + HTML
 
-ML model learns page patterns
+-  ML model learns page patterns
 
-Ranks pages by risk likelihood
+-  Ranks pages by risk likelihood
 
-Saves complete scoring JSON
+-  Saves complete scoring JSON
+
+---
 
 📝 3. Parameter & Form Extraction
 
-Detects GET parameters from URLs
+-  Detects GET parameters from URLs
 
-Finds forms + input fields in HTML
+-  Finds forms + input fields in HTML
 
-Collects data for later active testing
+-  Collects data for later active testing
+
+---
 
 ⚔️ 4. Optional Active Tests
 
-Only if user enables --active
+-  Only if user enables --active
 
-Conservative XSS tests
+-  Conservative XSS tests
 
-Conservative SQLi tests
+-  Conservative SQLi tests
 
-Logged safely to reports/ai_results.json
+-  Logged safely to reports/ai_results.json
+
 ---
+
+📄 5. Reporting
+
+-  Reporting
+
+Outputs:
+
+-  Crawled pages
+
+-  Parameters
+
+-  AI scores
+
+Active test resultsOutputs:
+
+-  Crawled pages
+
+-  Parameters
+
+-  AI scores
+
+-  Active test results
 
 #🚀 Installation
 
