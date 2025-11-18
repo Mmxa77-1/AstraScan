@@ -27,7 +27,7 @@ It is designed for **learning, research.
 #🚀 Installation
 
 git clone https://github.com/yourname/AstraScan
-cd AstraScan
+cd AstraScan \n
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
