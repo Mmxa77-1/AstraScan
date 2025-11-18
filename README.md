@@ -13,11 +13,14 @@ It is built to be safe for learning and research.
 ---
 
 📌 Features :
+
+---
+
 🔍 1. Smart Crawler
 
-Extracts pages up to a configurable depth
+-  Extracts pages up to a configurable depth
 
-Parses links, forms, parameters
+-  Parses links, forms, parameters
 
 Handles HTTPS, timeouts, redirects
 
