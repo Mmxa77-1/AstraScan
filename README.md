@@ -32,7 +32,8 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-![AstraScan Logo]()
+![![AstroScan By Mmxa77](https://github.com/user-attachments/assets/554d51df-92c8-4628-8c79-5e9fff690520)
+]
 
 
 ![Demo Screenshot]()
