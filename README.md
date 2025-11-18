@@ -1,30 +1,57 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bbd4cc2b-26f0-4cc4-9271-2f719e488dd4" width="1000" />
 </p>
-#⭐ AstraScan – AI‑Powered Web Security Analyzer
+⭐ AstraScan – AI-Powered Web Vulnerability Scanner
 
-AstraScan is a safe‑by‑default web analysis tool that uses
-machine‑learning heuristics to identify potentially interesting or risky endpoints
-in a website.  
-It **does not exploit**, **damage**, or **perform intrusive actions**.  
-It is designed for **learning, research.
+Advanced Recon • AI Ranking • Parameter Discovery • Optional Active Testing
+
+AstraScan is a lightweight yet powerful AI-assisted web vulnerability scanner designed for reconnaissance, parameter discovery, and machine-learning-based risk scoring.
+
+It does not exploit, attack, or bypass security systems.
+It is built to be safe for learning and research.
 
 ---
 
-#✨ Features
+📌 Features :
+🔍 1. Smart Crawler
 
-- 🔍 **Smart asynchronous web crawler**
-- 🤖 **AI‑assisted endpoint scoring**
-- 🧩 Extracts:
-  - URLs
-  - Parameters
-  - Forms & input fields
-- 🧠 Uses ML heuristics (RandomForest) to rank endpoints
-- 🔐 Optional **safe, conservative active tests**
-  - harmless reflection tests
-  - simple error‑based SQL markers
-- 📄 Automatic JSON reporting
+Extracts pages up to a configurable depth
 
+Parses links, forms, parameters
+
+Handles HTTPS, timeouts, redirects
+
+Can run through Tor (optional)
+
+Randomized headers for cleaner, more realistic crawling
+
+🧠 2. AI-Assisted Risk Scoring
+
+Generates feature vectors from URLs + HTML
+
+ML model learns page patterns
+
+Ranks pages by risk likelihood
+
+Saves complete scoring JSON
+
+📝 3. Parameter & Form Extraction
+
+Detects GET parameters from URLs
+
+Finds forms + input fields in HTML
+
+Collects data for later active testing
+
+⚔️ 4. Optional Active Tests
+
+Only if user enables --active
+
+Conservative XSS tests
+
+Conservative SQLi tests
+
+Logged safely to reports/ai_results.json
 ---
 
 #🚀 Installation
