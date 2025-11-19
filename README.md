@@ -92,7 +92,7 @@ Active test resultsOutputs:
 
 🚀 Installation
 
--  git clone https://github.com/yourname/AstraScan
+-  git clone https://github.com/Mmxa77-1/AstraScan
 -  cd AstraScan  
 -  python3 -m venv venv 
 -  source venv/bin/activate 
