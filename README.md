@@ -103,6 +103,8 @@ pip install -r requirements.txt
 ⚙️ Usage 
 
 -  Basic scan: python3 ai_scan.py -u https://example.com
+-  San with testing: python3 ai_scan.py -u https://example.com --active
+-  Scan with Tor: python3 ai_scan.py -u https://example.com --tor
 
 
 ## 🎥 Demo Img
@@ -113,3 +115,20 @@ pip install -r requirements.txt
 
 ---
 
+⚠️ Legal Disclaimer
+
+AstraScan is intended for educational and research purposes, security analysis of systems you personally own, or systems for which you have explicit written permission.
+
+The author is not responsible for any misuse of this tool.
+
+---
+
+🤝 Contributing
+
+Pull requests are welcome — feature ideas too!
+
+---
+
+📬 Contact
+
+If you need help or you got a problem feel free to ask <3
