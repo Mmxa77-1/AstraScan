@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bbd4cc2b-26f0-4cc4-9271-2f719e488dd4" width="1000" />
 </p>
-##⭐ AstraScan – AI-Powered Web Vulnerability Scanner
+⭐ AstraScan – AI-Powered Web Vulnerability Scanner
 
 Advanced Recon • AI Ranking • Parameter Discovery • Optional Active Testing
 
@@ -12,7 +12,7 @@ It is built to be safe for learning and research.
 
 ---
 
-##📌 Features :
+📌 Features :
 
 ---
 
@@ -90,7 +90,7 @@ Active test resultsOutputs:
 
 ---
 
-##🚀 Installation
+🚀 Installation
 
 -  git clone https://github.com/yourname/AstraScan
 -  cd AstraScan  
@@ -100,7 +100,7 @@ Active test resultsOutputs:
 
 ---
 
-##⚙️ Usage 
+⚙️ Usage 
 
 -  Basic scan: python3 ai_scan.py -u https://example.com
 -  San with testing: python3 ai_scan.py -u https://example.com --active
@@ -115,7 +115,7 @@ Active test resultsOutputs:
 
 ---
 
-##⚠️ Legal Disclaimer
+⚠️ Legal Disclaimer
 
 AstraScan is intended for educational and research purposes, security analysis of systems you personally own, or systems for which you have explicit written permission.
 
@@ -123,12 +123,12 @@ The author is not responsible for any misuse of this tool.
 
 ---
 
-##🤝 Contributing
+🤝 Contributing
 
 Pull requests are welcome — feature ideas too!
 
 ---
 
-##📬 Contact
+📬 Contact
 
 If you need help or you got a problem feel free to ask <3
