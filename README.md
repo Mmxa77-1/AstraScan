@@ -125,7 +125,7 @@ The author is not responsible for any misuse of this tool.
 
 🤝 Contributing
 
-Pull requests are welcome — feature ideas too!
+Pull requests are welcome !
 
 ---
 
